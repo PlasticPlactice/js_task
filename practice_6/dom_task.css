@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.change1 {
+    color:aqua;
+    font-size: 100px;
+    font-family:serif;
+}
+
+.change2 {
+    color: aquamarine;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.change3 {
+    color: blueviolet;
+    font-size: 50px;
+    font-family: sans-serif;
+}
